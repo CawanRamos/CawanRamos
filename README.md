@@ -2,13 +2,13 @@
 
 <div>
   <span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CawanRamos&show_icons=true&theme=dark" >
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CawanRamos&show_icons=true&theme=dark" >
  </span>
 <span>
   <img width="1px" >
 </span>
 <span>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CawanRamos&hide_progress=true" >
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CawanRamos&hide_progress=true" >
  </span>
 </div>
 
